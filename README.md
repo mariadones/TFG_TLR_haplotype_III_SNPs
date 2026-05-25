@@ -11,11 +11,9 @@ El treball es basa en les dades suplementàries de Dannemann et al. (2016) i té
 ## Estructura del repositori
 
 ```
-├── Python/
-│   ├── Codi_taula_dades.ipynb              # Construcció del dataset base: extracció de coordenades,
-│   │                                       # rsID, al·lels de referència i arcaics
-│   └── Seleccio_SNPs_estudi.ipynb          # Selecció dels 49 SNPs diferencials REF/HIII
-│                                           # i generació de taules resum
+├── Script_TFG_python.ipynb              # Script Python: construcció del dataset base,
+│                                        # selecció dels 49 SNPs diferencials REF/HIII
+│                                        # i generació de taules resum
 │
 ├── R/
 │   ├── Codi_grafica_distribucio_funcional.R  # Figura: distribució funcional dels SNPs (Figura 1)
@@ -23,6 +21,7 @@ El treball es basa en les dades suplementàries de Dannemann et al. (2016) i té
 │   ├── Codi_grafica_canvis_allels.R          # Figura: patrons de canvi al·lèlic REF/HIII (Figura 3)
 │   ├── Codi_figura_evidencies.R              # Figura: evidència funcional integrada (Figura 4)
 │   └── Codi_figura_resultats_prioritats.R    # Figura: priorització final dels SNPs (Figura 5)
+│
 │
 ├── Excel_TFG.xlsx           # Dataset base complet amb totes les anotacions i la diferent informació de la metodologia. En cada pestanya hi ha la diferent informació que s'ha anat utilitzant per la metodologia.
 └── README.md   
