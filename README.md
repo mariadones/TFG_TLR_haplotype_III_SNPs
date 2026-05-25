@@ -1,4 +1,4 @@
-# TFG: Caracterització funcional dels SNPs diferencials del core haplotype III en el clúster TLR6–TLR1–TLR10
+# TFG: Caracterització bioinformàtica i priorització funcional de variants diferencials del core del haplotype III introgressat en clúster TLR6– TLR1–TLR10
 
 ## Descripció
 
