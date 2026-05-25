@@ -67,7 +67,7 @@ Concretament:
 - **Ensembl GRCh37** (API REST): obtenció de rsID, al·lel de referència, posició hg38 i anotació funcional via VEP
 - **dbSNP** (NCBI): revisió manual de rsID
 - **RegulomeDB v2**: anotació reguladora de variants no codificants
-- **NHGRI-EBI GWAS Catalog**: cerca complementària d'associacions fenotípiques
+
 
 ---
 
