@@ -65,5 +65,5 @@ Concretament:
 
 ## Nota
 
-Els scripts han estat desenvolupats amb finalitat acadèmica en el marc d'un TFG de Grau en Genètica (Universitat Autònoma de Barcelona, curs 2024–2025). El dataset conté informació derivada de fonts públiques i no inclou dades de participants individuals.
+Els scripts han estat desenvolupats amb finalitat acadèmica en el marc d'un TFG de Grau en Genètica (Universitat Autònoma de Barcelona, curs 2025–2026). El dataset conté informació derivada de fonts públiques i no inclou dades de participants individuals.
 
