@@ -51,8 +51,7 @@ Concretament:
 - `readxl` v1.5.0
 - `flextable` v0.9.11
 - `officer` v0.7.5
-- `svglite` v2.2.2
-
+  
 ---
 
 ## Bases de dades externes consultades
