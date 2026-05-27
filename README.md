@@ -2,7 +2,7 @@
 
 ## Descripció
 
-Aquest repositori conté els scripts i el dataset utilitzats en el Treball de Fi de Grau (TFG) titulat **"Caracterització funcional dels SNPs diferencials del core haplotype III en el clúster TLR6–TLR1–TLR10"**.
+Aquest repositori conté els scripts i el dataset utilitzats en el Treball de Fi de Grau (TFG) titulat **"Caracterització bioinformàtica i priorització funcional de variants diferencials del core  haplotype III introgressat en clúster TLR6– TLR1–TLR10"**.
 
 El treball es basa en les dades suplementàries de Dannemann et al. (2016) i té com a objectiu identificar i prioritzar funcionalment les variants que diferencien el core haplotype III de la referència humana, integrant evidència d'expressió diferencial, associacions fenotípiques, anotació reguladora i literatura específica.
 
